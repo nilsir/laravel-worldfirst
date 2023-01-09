@@ -1,11 +1,11 @@
 {
-  "name": "overtrue/laravel-package",
+  "name": "nilsir/laravel-worldfirst",
   "description": "Laravel package template",
   "license": "MIT",
   "authors": [
     {
-      "name": "overtrue",
-      "email": "anzhengchao@gmail.com"
+      "name": "nilsir",
+      "email": "nilsir@qq.com"
     }
   ],
   "require": {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Overtrue\\LaravelPackage\\": "src"
+      "Nilsir\\LaravelWorldfirst\\": "src"
     }
   },
   "autoload-dev": {
@@ -34,7 +34,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "\\Overtrue\\LaravelPackage\\PackageServiceProvider"
+        "\\Nilsir\\LaravelWorldfirst\\WorldfirstServiceProvider"
       ]
     },
     "hooks": {

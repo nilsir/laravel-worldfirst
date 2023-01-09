@@ -1,10 +1,10 @@
 <?php
 
-namespace Overtrue\LaravelPackage;
+namespace Nilsir\LaravelWorldfirst;
 
 use Illuminate\Support\ServiceProvider;
 
-class PackageServiceProvider extends ServiceProvider
+class WorldfirstServiceProvider extends ServiceProvider
 {
     /**
      * Perform post-registration booting of services.

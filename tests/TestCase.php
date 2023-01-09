@@ -2,7 +2,7 @@
 
 namespace Tests;
 
-use Overtrue\LaravelPackage\PackageServiceProvider;
+use Nilsir\LaravelWorldfirst\WorldfirstServiceProvider;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase
 {
